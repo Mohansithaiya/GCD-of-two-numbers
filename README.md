@@ -1,4 +1,5 @@
-# Find the GCD of two numbers
+# DATE:
+# EX.NO.04 Find the GCD of two numbers
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
@@ -33,7 +34,7 @@ def gcd():
 
 ## Output:
 
-![alt text](<Screenshot 2024-04-09 091805.png>)
+![Screenshot 2024-09-09 202654](https://github.com/user-attachments/assets/ce820595-be65-4467-ba3a-8f882d0df1f0)
 
 
 ## Result:
